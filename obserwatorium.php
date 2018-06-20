@@ -204,7 +204,6 @@
                          
                 <div class="col-md-7 col-sm tabela-right" style="padding-top: 30px">
                     
-                    <!---------AllSky--------->
                     <div class="container selector-for-some-widget" >
 						<p class="text1">Kamerka AllSky</p>
 						<img class="card border-primary img-fluid" src="allsky/image.jpg" width="500" height="380">
