@@ -51,7 +51,7 @@
                     </div>
                 </div> 
         </div> 
-        <!----php---->
+        <!--php-->
 		<div class="container text1" >	
 			<?php
 
@@ -85,7 +85,7 @@
 			?>		
 		</div>
  
-		<!-----wykres-------->
+		<!--wykres-->
 		
 		<div class="container">
 			<div class="row">
