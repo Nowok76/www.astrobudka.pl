@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="pl">
-	<head>
+<head>
      <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116276306-1"></script>
     <script>
@@ -24,24 +24,19 @@
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
      
     <title>Astrofotografia</title>
-    </head>
+</head>
 
-   
-
-	<body>      
+<body>      
     <div class="container1">
         <div class="container">                             
             <div class="row" id="row-menu">
-                
-
-				<div class="col-md-12 header1">
-					<a class="btn btn-outline-primary button animated fadeInLeftBig" href="index.php" role="button">HOME</a>
-					<a class="btn btn-link button animated fadeInLeftBig" href="galeria.html" role="button">GALERIA</a>
-					<a class="btn btn-link button animated fadeInLeftBig" href="obserwatorium.php" role="button">ATACAMA</a>
-					<a class="btn btn-link button animated fadeInLeftBig" href="setup.html" role="button">SPRZĘT</a>
-					<a class="btn btn-link button animated fadeInLeftBig" href="budowa.html" role="button">BUDOWA astrobudki</a>  
-				</div>			   
-
+		<div class="col-md-12 header1">
+			<a class="btn btn-outline-primary button animated fadeInLeftBig" href="index.php" role="button">HOME</a>
+			<a class="btn btn-link button animated fadeInLeftBig" href="galeria.html" role="button">GALERIA</a>
+			<a class="btn btn-link button animated fadeInLeftBig" href="obserwatorium.php" role="button">ATACAMA</a>
+			<a class="btn btn-link button animated fadeInLeftBig" href="setup.html" role="button">SPRZĘT</a>
+			<a class="btn btn-link button animated fadeInLeftBig" href="budowa.html" role="button">BUDOWA astrobudki</a>  
+		</div>			   
             </div> 
         </div>
         <div class="container"> 
@@ -123,8 +118,6 @@
 				}
 				$table['rows'] = $rows;
 				$jsonTable = json_encode($table);
-
-
 				?>
 
 
@@ -198,16 +191,13 @@
                         }
                         </script>
                         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAq20hz3xncASUVsPoiIDi_mZJ618Ieles&callback=myMap"></script> 
-                    </row>
-                    
+                    </row>                    
                 </div>
-                         
-                <div class="col-md-7 col-sm tabela-right" style="padding-top: 30px">
-                    
+                <div class="col-md-7 col-sm tabela-right" style="padding-top: 30px">           
                     <div class="container selector-for-some-widget" >
-						<p class="text1">Kamerka AllSky</p>
-						<img class="card border-primary img-fluid" src="allsky/image.jpg" width="500" height="380">
-					</div>
+			<p class="text1">Kamerka AllSky</p>
+			<img class="card border-primary img-fluid" src="allsky/image.jpg" width="500" height="380">
+		    </div>
                     
                     <div class="container">
                         <h1 class="text1">A T A C A M A</h1>
@@ -216,24 +206,19 @@
 Tutaj szczególne podziekowania dla Radka Kaczorka, za bezcenne rady i wszelką pomoc.                                                       
                          <div id="telep">
                              <img class="card border-primary img-fluid" src="images/newton.jpg" alt="Teleskop" width="450" height="320">
-                         </div>    
-                        
+                         </div>                       
                     </div>       
                 </div>
              </div>               
-        </div>
-  
+        </div>  
    </div>
-         
           <!-- footer -->
     <div class="container1">                             
         <div class="container">
             <div class="row">
                 <div class="col-md-12 header1">
-                    <p class="text1">Copyright &copy; Dariusz Nowakowski 2018</p>
-                               
+                    <p class="text1">Copyright &copy; Dariusz Nowakowski 2018</p>                    
                 </div>
-                             
             </div>
         </div>     
     </div>
@@ -247,5 +232,5 @@ Tutaj szczególne podziekowania dla Radka Kaczorka, za bezcenne rady i wszelką 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
    
-	</body>
+</body>
 </html>
