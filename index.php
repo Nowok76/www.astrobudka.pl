@@ -160,7 +160,7 @@
                                 <a href="gromady.html"><img src="images/galeria/M12_s.JPG" alt=""></a>
                             </div> 
                         </div> 
-		            </div>
+		     </div>
                 </div>
             </div>
         </div>
