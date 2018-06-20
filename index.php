@@ -11,24 +11,24 @@
 
       gtag('config', 'UA-116276306-1');
     </script>
-  <!------------------------ Required meta tags -------------------->
+  <!--Required meta tags-->
     <meta charset="utf-8">
     <meta name="robots" content="index, follow" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="Keywords" content="astronomia, astrofotografia, astrofoto, astrobudka, hobby">
 	<meta name="description" content="Strona poświęcona mojej pasji, jaką jest astronomia. Znajdziesz tutaj zdjęcia, oraz opis budowy mojego obserwatorium.	Zapraszam również do ogladania moich astrofotigrafii." />
-    <!------------------------- Bootstrap CSS------------------------>
+    <!--Bootstrap CSS-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
 
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i" rel="stylesheet">
 
     <link rel="stylesheet" type="text/css" href="css/animate.css">
 
-    <!--------------------------OWL------------------------------>
+    <!--OWL-->
     <link rel="stylesheet" href="css/owl/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl/owl.theme.default.min.css">
 
-    <!----------------------------- moje CSS -------------------->
+    <!--moje CSS-->
     <link rel="stylesheet" type="text/css" href="css/main.css">
 	<link rel="stylesheet" type="text/css" href="css/responsive.css">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
@@ -37,7 +37,7 @@
     <title>Astrofotografia - Dariusz Nowakowski</title>
 </head>
 <body data-spy="scroll" data-target=".fixed-top" data-offset="65">
-    <!------HEADER----->
+
     <header>
         <nav class="navbar navbar-expand-lg  fixed-top " role="navigation">
             <div class="container-fluid">
@@ -68,7 +68,7 @@
             </div>
         </nav>
     </header>
-    <!------HOME----->
+    <!--HOME-->
     <section id="home">
         <div id="home-cover" class="bg-parallax animated fadeIn">
             <div id="home-content-box">
@@ -86,12 +86,12 @@
             </div>
         </div>
     </section>
-    <!------INFO----->
+    <!--INFO-->
     <section id="info">
         <div id="info-heading" class="container1 ">
             <h2 id="info-text">Pogoda</h2>
         </div>
-        <!----php---->
+        <!--php-->
 		<div class="container1 text1" >	
 			<?php
 
@@ -137,7 +137,7 @@
             </div>
         </div>
     </section>
-    <!------GALERIA----->
+    <!--GALERIA-->
     <section id="galeria">
         <div id="galeria-cover" class="bg-parallax animated fadeIn">
             <div id="galeria-content-box">
@@ -165,7 +165,7 @@
             </div>
         </div>
     </section>
-    <!------BUDOWA BUDKI----->
+    <!--BUDOWA BUDKI-->
     <section id="budowa">
         <div id="budowa-cover" class="container1 animated fadeIn height: auto">
             <div id="budowa-content-box">
@@ -199,7 +199,7 @@
             </div>
         </div>
     </section>
-    <!---------Sprzęt-------------->
+    <!--Sprzęt-->
     <section id="setup-section">
         <div id="setup-cover" class="bg-parallax">
             <div id="setup-content-box">
@@ -294,7 +294,7 @@
             </div>
         </div>
     </Section>
-    <!------Font-awesome------>
+    <!--Font-awesome-->
     <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -305,14 +305,14 @@
     <script src="js/jquery.js"></script>
     <!---WOW-->
     <script src="js/wow/wow.min.js"></script>
-    <!---------OWL--------->
+    <!--OWL-->
     <script src="js/owl/owl.carousel.min.js"></script>
-    <!-----easing------>
+    <!--easing-->
     <script src="js/jquery.easing.1.3.js"></script>
     <!---Custom-->
     <script src="js/custom.js"></script>
-    <!-----easing------>
+    <!--easing-->
     <script src="js/jquery.easing.1.3.js"></script>
-    <!---Custom-->
+    <!--Custom-->
     <script src="js/custom.js"></script>
 </body>
