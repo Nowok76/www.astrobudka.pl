@@ -75,8 +75,8 @@
                 <div id="home-content-box-inner">
                     <div id="home-heading" class="animated zoomIn">
                         <h1>ASTROFOTOGRAFIA</h1>
-						<h2 id="opis-home">Strona poświęcona mojej pasji, jaką jest astronomia. Znajdziesz tutaj zdjęcia, oraz opis budowy mojego obserwatorium.
-						Zapraszam również do ogladania moich astrofotigrafii.</h2>
+			<h2 id="opis-home">Strona poświęcona mojej pasji, jaką jest astronomia. Znajdziesz tutaj zdjęcia, oraz opis budowy mojego obserwatorium.
+			Zapraszam również do ogladania moich astrofotigrafii.</h2>
                     </div>
                     <div id="home-btn" class="animated zoomIn">
                         <a class="btn btn-lg btn-general btn-white" href="obserwatorium.php" role="button">ATACAMA                        
@@ -276,7 +276,7 @@
                                 </div>
                             </div>     
                         </div>
-		            </div>
+		     </div>
                 </div> 
             </div>
         </div>
